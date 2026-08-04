@@ -1,7 +1,5 @@
 # Empty-Folder-Cleaner
 
-![banner](https://i.imgur.com/PLACEHOLDER.png)
-
 Recursively find and delete empty folders in any directory tree, including nested chains that become empty once their children are removed.
 
 ### How It Works

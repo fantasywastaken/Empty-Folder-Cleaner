@@ -1,1 +1,0 @@
-Go CLI to recursively find and delete empty folders bottom-up with dry-run preview, hidden-file filtering, and progress output.
